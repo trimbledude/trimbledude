@@ -1,8 +1,5 @@
 Hi there 👋 I'm trimbledude, Welcome to my Github profile! 👋
 
-<!--
-**trimbledude/trimbledude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👦 Pronouns: He / Him 👦
 
 🎓 I’m currently learning 🐍Python, 💻WSL
@@ -11,4 +8,6 @@ Hi there 👋 I'm trimbledude, Welcome to my Github profile! 👋
 
 📫 "[Join my Discord Server](https://discord.gg/Xa8gGUby)" 
 📫 "[Add me as a friend on Discord](https://discord.com/users/trimbledude#1542)"
+<!--
+**trimbledude/trimbledude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
