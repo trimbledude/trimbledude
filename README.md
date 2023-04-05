@@ -2,7 +2,7 @@ Hi there 👋 I'm trimbledude, Welcome to my Github profile! 👋
 
 👦 Pronouns: He / Him 👦
 
-🎓 I’m currently learning 🐍Python, 💻WSL
+🎓 I’m currently learning 🐍Python, 💻WSL.
 👨‍🌾 I have 15 years years experience in Precision Agriculture. 🛰
 🏭 I work in manufacturing. 🤖
 
