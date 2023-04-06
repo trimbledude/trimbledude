@@ -1,8 +1,6 @@
 ![movie-spirited-away-wallpaper-preview22](https://user-images.githubusercontent.com/4210645/230256882-e428cd27-6725-4572-bcdf-e0039fa945e3.jpg)
-![R (4)](https://user-images.githubusercontent.com/4210645/230257332-f969b391-944b-4f34-a6cd-e012e8f12717.png)
-
 **Hi there, I'm trimbledude, Welcome to my Github profile!** 👋
-
+---------------------------------------------------------------
 👦 Pronouns: He / Him 👦 <br>
 
 `🎓 I’m currently learning 🐍Python, 💻WSL.` <br>
