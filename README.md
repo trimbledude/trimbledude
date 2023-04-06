@@ -1,4 +1,5 @@
-**Hi there, I'm trimbledude, Welcome to my Github profile!** 👋
+**Hi there, I'm trimbledude,** <br>
+**Welcome to my Github profile!** 👋 <br>
 ---------------------------------------------------------------
 👦 Pronouns: He / Him 👦 <br>
 
