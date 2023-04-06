@@ -1,4 +1,5 @@
-![movie-spirited-away-wallpaper-preview22](https://user-images.githubusercontent.com/4210645/230256882-e428cd27-6725-4572-bcdf-e0039fa945e3.jpg)
+<p align="center">![movie-spirited-away-wallpaper-preview22](https://user-images.githubusercontent.com/4210645/230256882-e428cd27-6725-4572-bcdf-e0039fa945e3.jpg)
+</p>
 **Hi there, I'm trimbledude, Welcome to my Github profile!** 👋
 ---------------------------------------------------------------
 👦 Pronouns: He / Him 👦 <br>
