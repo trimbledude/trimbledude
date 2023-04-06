@@ -1,4 +1,5 @@
-![My Banner](https://github.com/trimbledude/trimbledude/issues/1#issuecomment-1498248976)
+![bbd728875da2de37369f55d7bbc15078 (2)](https://user-images.githubusercontent.com/4210645/230256747-5f13cb37-363a-440d-9deb-038cdb9163d8.jpg)
+
 Hi there 👋 I'm trimbledude, Welcome to my Github profile! 👋
 
 👦 Pronouns: He / Him 👦
