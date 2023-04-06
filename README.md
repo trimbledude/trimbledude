@@ -1,5 +1,5 @@
 Hi there 👋 I'm trimbledude, Welcome to my Github profile! 👋
-[![Banner](https://user-images.githubusercontent.com/4210645/230227933-7d8e5891-5190-425f-8087-8797860168f7.jpg | width=100)]
+[![Banner](https://user-images.githubusercontent.com/4210645/230227933-7d8e5891-5190-425f-8087-8797860168f7.jpg | width=100)
 
 
 👦 Pronouns: He / Him 👦
